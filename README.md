@@ -1,4 +1,4 @@
-# Problems I don't like
+# Fun projects
 
 ## projects:
  - phone number
